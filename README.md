@@ -1,4 +1,4 @@
-# Project_2
+# Nhận diện ký tự khó
 
 ## Cài đặt môi trường
 -  Sử dụng ngôn ngữ lập trình Python và môi trường Jupiter Notebook ( Google Colab hoặc Visual Studio Code)
