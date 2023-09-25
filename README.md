@@ -4,7 +4,7 @@
 -  Sử dụng ngôn ngữ lập trình Python và môi trường Jupiter Notebook ( Google Colab hoặc Visual Studio Code)
 - Sử dụng trình quản lý [pip](https://pip.pypa.io/en/stable/) để cài đặt các thư viện
 ```bash
-Sử dụng pup để cài đặt các thư viện cần thiết
+Sử dụng pip để cài đặt các thư viện cần thiết
 ```
 ## Tổng quan
 - Dự án này nhằm mục đích phát triển một mô hình học máy có thể nhận diện các ký tự toán học trong văn bản. Mô hình này có thể được sử dụng trong các ứng dụng như:
